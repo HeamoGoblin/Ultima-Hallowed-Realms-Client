@@ -12,3 +12,7 @@ The Git is meant to be used together with a server package you can download in s
 3.)Download the drop-in additional files in the release tab, extract everything inside the Ultima-Hallowed-Realms-Client folder in the archive to your C:\Ultima-Hallowed-Realms folder
 
 4.)Run the runme options to launch the client.
+
+Administrator account credentials:
+Username: newadmin
+Password: newadmin
