@@ -7,7 +7,7 @@ This git never needs to be cloned we will only use it to push text files that wi
 
 The Git is meant to be used together with a server package you can download in separate Git release area Here: https://github.com/HeamoGoblin/Ultima-Hallowed-Realms
 
-1.)To play: Download and install the client's IPL from this repo.
+1.)To play: Download and install the IPL from this repo.
 
 2.)Make sure you unzip the client inside the Server Git that you had cloned it should be located at C:\Ultima-Hallowed-Realms
 
