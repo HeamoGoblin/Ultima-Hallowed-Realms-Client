@@ -11,7 +11,7 @@ This Git is meant to be used together with the offline single player server pack
 
 (Coming Soon)
 
-#Different Client Packages:
+# Different Client Packages:
 
 1.) To Play Online: Download and install the IPL from this repos Release Section.
 
