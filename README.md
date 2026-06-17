@@ -7,7 +7,8 @@ This git never needs to be cloned we will only use it to Create New Releases tha
 
 We will also release a Client Package Zip for the players who do not wish to play online or use the IPL.
 
-This Git is meant to be used together with a server package you can download in separate Git release area.
+This Git is meant to be used together with the offline single player server package you can download in separate Git release area.
+
 (Coming Soon)
 
 1.) To Play Online: Download and install the IPL from this repos Release Section.
