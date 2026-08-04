@@ -1,26 +1,36 @@
 # Ultima-Hallowed-Realms-Client
 Game Client For Ultima Hallowed Realms
 ---------------------------------------------------------------------------------------------
-How to play/Use this git
+How to play/Use this Git
 
-This git never needs to be cloned we will only use it to push text files that will hold the client side updates and other client options all players will get the updates automatically with the shards IPL = Installer, Patcher, Launcher that client can be used to play offline as well!
+This git never needs to be cloned we will only use it to Create New Releases that will hold the client side updates and other client options all players will get the updates automatically with the shards IPL = Installer, Patcher, Launcher!
 
-The Git is meant to be used together with a server package you can download in separate Git release area Here: https://github.com/HeamoGoblin/Ultima-Hallowed-Realms
+We will also release a Client Package Zip for the players who do not wish to play online or use the IPL.
 
-1.)To play: Download and install the IPL from this repo.
+This Git is meant to be used together with the offline single player server package you can download in separate Git release area.
 
-2.)Make sure you unzip the client inside the Server Git that you had cloned it should be located at C:\Ultima-Hallowed-Realms
+(Coming Soon)
 
-3.)Now you will have two folders one being the Server the other being your Client
+# Different Client Packages:
 
-4.)Now open your Client Folder inside of their you will find another folder called TazUO open it then click on the TazUO Launcher.
+1.) To Play Online: Download and install the IPL from this repos Release Section.
 
-5.)Now you are ready to play using the testing option from the drop down menu is for offline play using the hallowed realms option from the drop down will allow you to play on the online shard with all online players!
+2.) To Play Offline: Download the Client Package from this repos Release Section this will not have the IPL features.
 
-If playing on the live server accounts are set up for auto creation.
+# Offline Install Instructions:
 
-If playing offline to get on the admin account you will need to use this login below!
+1.) Download the Client Package from the release section of this Git Make sure you unzip the client package it should be located at C:\Ultima-Hallowed-Realms
 
-Administrator account credentials:
-Username: newadmin
-Password: newadmin
+3.) Now you will have two folders one being the Data Files the other being your Client.
+
+4.) Now open your Client Folder (TazUO Launcher) inside of their you will find TazUO Launcher.exe double click it to get it running.
+
+5.) Now you need to make your profile once you have it made and the information filled in you are ready to play online or offline!
+
+# Online Install Instructions:
+
+1.) Download the Ultima Hallowed Realms IPL from the release section of this Git.
+
+2.) Now all you have to do is install the IPL and it will auto patch all your files every time you launch it to login once the patching is complete you will see a play button click it!
+
+3.) Now you are all set to play on the online server put in your user name and password accounnts are set up for auto creation!
